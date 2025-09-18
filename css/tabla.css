@@ -1,0 +1,34 @@
+body{
+
+  background-image: url(/img/images\ \(1\).jfif);
+
+  background-repeat: no-repeat;
+
+  font-size: larger;
+
+  color: white;
+
+}
+
+h1{
+
+  color: chartreuse;
+
+  font-family: arial;
+
+}
+
+table{
+
+  border: 2;
+
+  column-rule-color: blue;
+
+  border-right: yellow;
+
+  color: blueviolet;
+
+  background-color: cyan;
+
+}
+

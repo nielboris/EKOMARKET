@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(117, 255, 232);
+}
+div{
+    height: 25%;
+    background-color: #b3ceb3;
+}
+
+aside{
+    color: #464fd3;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+footer{
+    color-scheme: #b3ce3c;
+    font-size: xx-small;
+}
+nav{
+    margin: 0;
+    border: #878ffc;
+    font-size: xx-large;
+}
